@@ -5,6 +5,3 @@
 [submodule "NORMA"]
 	path = NORMA
 	url = https://github.com/cran/NORMA
-[submodule "errint"]
-	path = errint
-	url = https://github.com/cran/errint
