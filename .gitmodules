@@ -2,6 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "NORMA"]
-	path = NORMA
-	url = https://github.com/cran/NORMA
